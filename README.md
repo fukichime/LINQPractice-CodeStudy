@@ -39,13 +39,3 @@ The `BookService` class includes both good and bad examples, allowing developers
 1. Navigate to the `HowToNotCode` folder.
 2. Open `Program.cs` in your preferred C# development environment.
 3. Build and run the `HowToNotCode` project.
-
-## Contribute
-- Fork the repository.
-- Create a branch: `git checkout -b feature/YourFeatureName`
-- Commit your changes: `git commit -am 'Add some feature'`
-- Push to the branch: `git push origin feature/YourFeatureName`
-- Submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
